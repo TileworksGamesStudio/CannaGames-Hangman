@@ -155,9 +155,9 @@
   const CONFIG = Object.freeze({
     csvPath: './puzzles.csv',
     maxStrikes: 6,
-    storageKey: 'universal_hangman_v3',
+    storageKey: 'cananuniversal_hangman_v3',
     legacyStorageKeys: ['universal_hangman_v2', 'universal_hangman_v1'],
-    homeUrl: '#',
+    homeUrl: 'https://tileworksgamesstudio.github.io/CannaGames-Home/',
     toastDurationMs: 2200,
     revealStaggerMs: 50
   });
